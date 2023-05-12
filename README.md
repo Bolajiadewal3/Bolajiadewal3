@@ -9,7 +9,7 @@
 
   
   
-**Knowledgeable in:  **
+Knowledgeable in:
 
 ⭐ Project Management  
 
@@ -29,7 +29,7 @@
   
   
 
-**Languages:  **
+Languages:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
